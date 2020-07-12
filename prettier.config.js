@@ -3,7 +3,7 @@
 // the default value will be applied.
 module.exports = {
 	printWidth: 80,
-	tabWidth: 4,
+	tabWidth: 2,
 	useTabs: true,
 	semi: false,
 	singleQuote: true,
